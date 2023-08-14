@@ -1,6 +1,5 @@
 <script setup>
 import { computed, ref } from 'vue';
-import TableRow from '../components/TableRow.vue';
 
 const excel_table = ref([]);
 const arrays = ref([]);
